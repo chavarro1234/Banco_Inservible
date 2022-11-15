@@ -225,9 +225,9 @@ body{
                         -o-transform: scale(1.09);
                     }
         .container-articles{
-            width: 75%;
-            height: 1000px;
-            margin: 10px;
+            width: 85%;
+            height: 1500px;
+            margin: 100px;
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             grid-template-rows: minmax(150px, auto);
